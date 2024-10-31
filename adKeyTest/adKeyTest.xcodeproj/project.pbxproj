@@ -82,7 +82,7 @@
 				};
 			};
 			buildConfigurationList = F47CC87B2CD23B61009FD252 /* Build configuration list for PBXProject "adKeyTest" */;
-			compatibilityVersion = "Xcode 15.0";
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
